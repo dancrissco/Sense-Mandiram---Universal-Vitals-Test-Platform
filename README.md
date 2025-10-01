@@ -6,6 +6,11 @@ Universal Test Platform with XIAO MG24 Sense
 
 <img width="761" height="554" alt="image" src="https://github.com/user-attachments/assets/e3371b3f-640e-4608-b0d5-959551df4093" />
 
+<img width="951" height="721" alt="image" src="https://github.com/user-attachments/assets/d4a4b774-2a88-4d7b-a5ea-39fa2d6f20d7" />
+
+
+
+
 
 
 
