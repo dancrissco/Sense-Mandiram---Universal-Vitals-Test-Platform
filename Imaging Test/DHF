@@ -1,1 +1,10 @@
+Summary of the Self-Training Concept
+The core idea is to create a personal, confidential dataset that allows a user to "self-train" their awareness (or a computational model) to see if changes in their skin appearance are visually or digitally correlatable to their blood glucose (BG) status.
 
+Consistent Data Collection (Month 1): The individual dedicates 30 days to capturing images of six specific body sites (e.g., inner wrist, outer forearm, neck, chest, calf/ankle, and cheek/lower face) at a consistent time each day. Crucially, they simultaneously record their parallel glucose readings (fasting and post-meal). The images are taken with care regarding lighting and camera position to ensure consistency.
+
+Confidential Data Storage: All images and readings are stored in a private folder, ensuring the user maintains control and confidentiality over their health data.
+
+Pattern Discovery & Inference (Following Months): After the initial month's baseline data is collected, the user continues the imaging and reading schedule. The goal is that, over several months, by comparing the two datasets (images and glucose readings), the user (or a visualization/analysis tool) can begin to find patterns. This process of inference means the user would try to look at an image taken in Month 2 or 3 and gauge their glucose level based on patterns learned from Month 1, thereby building confidence in the visual correlation.
+
+Goal: The ultimate, long-term goal for the individual is to potentially be able to infer or predict their glucose value by simply imaging a few parts of their body, keeping the entire process highly confidential.
